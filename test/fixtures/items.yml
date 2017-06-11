@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alias_name: MyString
+  full_name: MyString
+  ingredients: 
+  regular_price: 9.99
+  on_sale: false
+  featured: false
+  recommended: false
+  restaurant_ratings: 1
+  historial_pricing: 
+  active: false
+  sales_price: 9.99
+
+two:
+  alias_name: MyString
+  full_name: MyString
+  ingredients: 
+  regular_price: 9.99
+  on_sale: false
+  featured: false
+  recommended: false
+  restaurant_ratings: 1
+  historial_pricing: 
+  active: false
+  sales_price: 9.99

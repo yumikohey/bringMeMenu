@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  expired: false
+  qrcode: MyString
+  table_number: MyString
+  description: MyString
+
+two:
+  expired: false
+  qrcode: MyString
+  table_number: MyString
+  description: MyString
