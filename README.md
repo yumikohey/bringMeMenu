@@ -8,6 +8,7 @@ Restaurants' customers can use an iOS app https://github.com/yumikohey/WaiterCar
 
 Coming soon: An auto driving car in a restaurant to serve customers' needs. https://github.com/kennethcc2005/auto_car
 
+Issues:
 
 Two weeks ago, WSJ had an article states that Americans made 433 million fewer trips to restaurants at lunchtime, which resulted $3.2 billion lost in business.
 https://www.wsj.com/articles/going-out-for-lunch-is-a-dying-tradition-1496155377?mg=prod/accounts-wsj
