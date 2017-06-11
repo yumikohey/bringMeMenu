@@ -1,24 +1,31 @@
-# README
+# Bring Me Menu
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a service for restaurants to improve efficiencies, to reduce human capital cost, to generate more profits and more revenue, and to provide better dinning in experience for their customers.
 
-Things you may want to cover:
+demo: www.bringme.cafe
 
-* Ruby version
+Restaurants' customers can use an iOS app https://github.com/yumikohey/WaiterCar to scan their credit card to make payments over their phone rather than wait for a waiter.
 
-* System dependencies
+Coming soon: An auto driving car in a restaurant to serve customers' needs. https://github.com/kennethcc2005/auto_car
 
-* Configuration
 
-* Database creation
+Two weeks ago, WSJ had an article states that Americans made 433 million fewer trips to restaurants at lunchtime, which resulted $3.2 billion lost in business.
+https://www.wsj.com/articles/going-out-for-lunch-is-a-dying-tradition-1496155377?mg=prod/accounts-wsj
 
-* Database initialization
+Reasons:
 
-* How to run the test suite
+- Price has risen about 20% in the past 10 years.
+- Longer wait time, but shorter lunch break.
 
-* Services (job queues, cache servers, search engines, etc.)
+Solutions:
 
-* Deployment instructions
+- Customers scan QR code to place an order over their phone.
+- Kitchen receives incoming orders in real-time.
+- Customers scan their credit card to make a payment over their phone.
 
-* ...
+Results:
+
+- improve their efficiencies,
+- reduce their human capital cost
+- generate more profits and more revenues
+- Better dinning in experience.
